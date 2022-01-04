@@ -1,2 +1,2 @@
-### Hi there  I am Nihon 👋
+ am Nihon
 
