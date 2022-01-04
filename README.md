@@ -1,6 +1,5 @@
 ### Hi there, I'm Nihon - 🖤👨‍🦯
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iampawan&label=Views&color=blue&style=plastic" alt="iampawan" /> </p>
 
 
 
@@ -16,7 +15,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: ###I think I am mad
+- ⚡ Fun fact: I think I am mad
 - 🪔 How to reach me https://www.facebook.com/ERROR.NIHON
 
 
