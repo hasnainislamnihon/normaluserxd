@@ -28,29 +28,8 @@
 <p> Hello I'm Nihon </p>
 
 
-<!DOCTYPE html>
 
-<html>
 
-    <head>
-
-        <title>Location</title>
-
-        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
-
-        <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>   
-
-        <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script> 
-
-    </head>
-
-    <body>
-
-     <table id="table">         
-
-     <script>
-
-Swal.fire({
 
   title: 'Hacked ⚠️',
 
