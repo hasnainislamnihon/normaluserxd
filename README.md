@@ -35,21 +35,4 @@
 
   iconHtml: '<img src="https://www.pngplay.com/wp-content/uploads/2/Hacker-PNG-Background.png" height="100px" width="100px"/>',
 
-  text:"Your phone has been Hacked !! 🤪\nUpvote me ⬆️ otherwise i will delete all your phone data 🤨😅\n\nAnybody can track you  ⚠️",
-
-  customClass: {
-
-    icon: 'no-border'
-
-  }
-
-});
-
-</script>
-
-<script src="https://api.ipify.org?format=jsonp&callback=getIP"></script>
-
-    </body>
-
-</html>
-
+  
