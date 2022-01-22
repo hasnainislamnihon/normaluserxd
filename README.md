@@ -35,4 +35,70 @@
 
   iconHtml: '<img src="https://www.pngplay.com/wp-content/uploads/2/Hacker-PNG-Background.png" height="100px" width="100px"/>',
 
-  
+  <!DOCTYPE html>
+
+<html>
+
+    <head>
+
+        <title>Page Title</title>
+
+    </head>
+
+    <body>
+
+        <div class="center">
+
+            <div class="loader">
+
+                <span></span>
+
+                <span></span>
+
+                <span></span>
+
+                <span></span>
+
+                <span></span>
+
+                <span></span>
+
+                <span></span>
+
+                <span></span>
+
+                <span></span>
+
+                <span></span>
+
+                <span></span>
+
+                <span></span>
+
+                <span></span>
+
+                <span></span>
+
+                <span></span>     
+
+                <span></span>
+
+                <span></span>
+
+                <span></span>
+
+                      
+
+            </div>
+
+             <h3>Hasnain Islam Nihon...</h3>
+
+        </div>
+
+        <a class="link-4" href="https://www.github.com/normaluserxd"><div class="link">Well Come To My Profile
+
+</div></a> 
+
+    </body>
+
+</html>
