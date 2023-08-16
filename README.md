@@ -16,12 +16,13 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I think I am mad
-- 🪔 How to reach me https://www.facebook.com/ERROR.NIHON
+- 🪔 How to reach me
+- https://www.facebook.com/NIHON.ME
 
 
 #### Facebook :
 <p align="center"> 
-<a href="https://www.facebook.com/ERROR.NIHON"><img title="FaceBook" src="https://img.shields.io/badge/FB-Hasnain Islam Nihon-lightgrey?style=for-the-badge&logo=facebook"></a>
+<a href="[https://www.facebook.com/ERROR.NIHON](https://www.facebook.com/NIHON.ME)"><img title="FaceBook" src="https://img.shields.io/badge/FB-Hasnain Islam Nihon-lightgrey?style=for-the-badge&logo=facebook"></a>
 </p>
 
 
@@ -37,31 +38,8 @@
 
   <!DOCTYPE html>
 
-<html>
 
-    <head>
 
-        <title>Page Title</title>
-
-    </head>
-
-    <body>
-
-        <div class="center">
-
-            <div class="loader">
-
-                <span></span>
-
-                <span></span>
-
-                <span></span>
-
-                <span></span>
-
-                <span></span>
-
-                <span></span>
 
                 <span></span>
 
